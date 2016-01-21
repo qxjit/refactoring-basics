@@ -22,3 +22,8 @@ Here are the changes to the game shown in the examples:
 * Give the score a gray background box
 * Add a second box after the first
 * Size & color the two boxes differently
+
+
+## View the code in action
+
+You can play the game at http://qxjit.github.io/refactoring-basics, or clone the repo and open the `index.html` file in your browser. Use the links on the left to nagivate between the different example `.js` files. The `live.js` file can be loaded from the `Live` link, giving you a place to try out the refactorings yourself from beginning to end.
